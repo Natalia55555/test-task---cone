@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+}
+canvas{ 
+  position: absolute;
+  right: calc(50% - 400px);
+  top: 150px;
+}
+.form{
+  margin-top: 50px;
+}
+input{
+  margin-left: 10px;
+  margin-right: 10px;
+}
