@@ -4,12 +4,26 @@
 canvas{ 
   position: absolute;
   right: calc(50% - 400px);
-  top: 150px;
+  top: 170px;
 }
-.form{
+.form_wrap{
   margin-top: 50px;
 }
 input{
   margin-left: 10px;
   margin-right: 10px;
+}
+.btn{
+  margin-top: 30px;
+  padding: 10px 30px;
+  color: #fff;
+  background-color: #4caf50;
+  font-size:16px;
+  text-transform: uppercase;
+  border: 1px solid  #4caf50;
+  cursor: pointer;
+}
+.btn:hover{
+  background-color: #fff;
+  color: #4caf50;
 }
